@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Raiza👋</h1>
-<h3 align="center">BSIT Student • Web & Mobile Developer • Designer</h3>
+<h3 align="center">Web & Mobile Developer • Designer</h3>
 
 
 # 💫 About Me:
