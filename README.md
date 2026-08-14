@@ -36,10 +36,6 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=gloriaraizalhyn-cyber&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=gloriaraizalhyn-cyber&theme=tokyonight&hide_border=false" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gloriaraizalhyn-cyber&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=gloriaraizalhyn-cyber&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=false" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gloriaraizalhyn-cyber&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
 </p>
